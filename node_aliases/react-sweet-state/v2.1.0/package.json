@@ -1,0 +1,6 @@
+{
+  "name": "v2.1.0",
+  "dependencies": {
+    "react-sweet-state": "2.1.0"
+  }
+}
