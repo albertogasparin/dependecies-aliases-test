@@ -1,0 +1,9 @@
+{
+  "name": "issue",
+  "main": "./src",
+  "dependencies": {
+    "react-sweet-state": "file:./node_aliases/react-sweet-state",
+    "react-sweet-state_220": "npm:react-sweet-state@2.2.0",
+    "react-sweet-state_latest": "npm:react-sweet-state@^2.3.0"
+  }
+}

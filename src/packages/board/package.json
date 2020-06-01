@@ -1,0 +1,9 @@
+{
+  "name": "board",
+  "main": "./src",
+  "dependencies": {
+    "react-sweet-state": "file:./node_aliases/react-sweet-state",
+    "react-sweet-state_210": "npm:react-sweet-state@2.1.0",
+    "react-sweet-state_latest": "npm:react-sweet-state@^2.3.0"
+  }
+}
